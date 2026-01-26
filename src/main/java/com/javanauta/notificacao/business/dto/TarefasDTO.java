@@ -1,4 +1,4 @@
-package com.javanauta.agendadortarefas.business.dto;
+package com.javanauta.notificacao.business.dto;
 
 import com.fasterxml.jackson.annotation.JsonFormat;
 import com.javanauta.notificacao.business.enums.StatusNotificacaoEnum;
