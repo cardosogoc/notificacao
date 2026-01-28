@@ -1,9 +1,8 @@
 package com.javanauta.notificacao.business;
 
-import com.javanauta.agendadortarefas.business.dto.TarefasDTO;
+import com.javanauta.notificacao.business.dto.TarefasDTO;
 import com.javanauta.notificacao.infrastructure.exceptions.EmailException;
 import jakarta.mail.MessagingException;
-import jakarta.mail.internet.AddressException;
 import jakarta.mail.internet.InternetAddress;
 import jakarta.mail.internet.MimeMessage;
 import lombok.RequiredArgsConstructor;
